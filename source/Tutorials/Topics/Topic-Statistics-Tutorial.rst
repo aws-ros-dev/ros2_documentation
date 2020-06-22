@@ -48,9 +48,8 @@ Tasks
 5 Build and run
 ^^^^^^^^^^^^^^^
 
+6 Observe published statistic data
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Configurable parameters
 -----------------------
-
-
-Observing published data
-------------------------
