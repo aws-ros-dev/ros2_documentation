@@ -17,8 +17,8 @@ ROS2 Topic Statistics Tutorial (C++)
 Overview
 --------
 
-This is a short tutorial how to enable Topic Statistics (see :ref`About-Topic-Statistics` in ROS 2 and view the published output
-using command line tools.
+This is a short tutorial how to enable Topic Statistics (see :ref:`About-Topic-Statistics <AboutTopicStats>`)
+in ROS 2 and view the published output using command line tools.
 
 
 Prerequisites
