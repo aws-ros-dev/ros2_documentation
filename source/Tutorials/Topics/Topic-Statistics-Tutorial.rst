@@ -3,7 +3,7 @@
     Topic-Statistics-Tutorial
 
 ROS2 Topic Statistics Tutorial (C++)
-=================================
+====================================
 
 **Goal:** Enable ROS2 Topic Statistics and view the output data
 
@@ -17,13 +17,12 @@ ROS2 Topic Statistics Tutorial (C++)
 Overview
 --------
 
-Todo link to concepts
-This is a short tutorial of how to enable Topic Statistics in ROS2 and view the published output
+This is a short tutorial how to enable Topic Statistics (see :ref`About-Topic-Statistics` in ROS 2 and view the published output
 using command line tools.
 
 
 Prerequisites
-------------
+-------------
 
 An installation from either binaries or source, where the version must be at least
 `ROS2 Foxy <https://index.ros.org/doc/ros2/Releases/Release-Foxy-Fitzroy/>`__.
@@ -37,11 +36,21 @@ Tasks
 1 Create a package
 ^^^^^^^^^^^^^^^^^^
 
-2
+2 Write the subscriber node
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Configuration
--------------
+3 Write the publisher node (without header timestamp)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+4 Write the publisher node (with header timestamp)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+5 Build and run
+^^^^^^^^^^^^^^^
+
+Configurable parameters
+-----------------------
 
 
-Observing Published Data
---------------
+Observing published data
+------------------------
